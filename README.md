@@ -1,6 +1,7 @@
 FutureTech Website
 FutureTech is a two-page responsive website project designed to showcase modern web design practices and the power of CSS.
-
+## 🌐 Live Demo
+[View FutureTech Website](https://earnest-custard-978ed7.netlify.app/)
 ## Pages
 # Home
 Introduces FutureTech with a clean, professional layout.
