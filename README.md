@@ -17,7 +17,7 @@ Contains a fully  contact form with fields for name, email, phone, and message.
 Includes a FAQ accordion for common questions, styled with Bootstrap and customized CSS.
 
 Displays direct contact information (email, phone, address) and social media links.
-
+ 
 Designed to be user-friendly and responsive, adapting seamlessly to mobile and desktop screens.
 
 ## What I Learned
