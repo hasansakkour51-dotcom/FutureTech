@@ -1,33 +1,62 @@
-FutureTech Website
-FutureTech is a two-page responsive website project designed to showcase modern web design practices and the power of CSS.
-## 🌐 Live Demo
-[View FutureTech Website](https://precious-dieffenbachia-74b7c9.netlify.app/)
-## Pages
-# Home
-Introduces FutureTech with a clean, professional layout.
 
-Includes sections for news updates, blogs, podcasts, and resources.
+FutureTech is a modern, two‑page responsive website built to demonstrate advanced frontend design techniques and the true power of CSS.
+This project was developed during my training as a frontend developer, where I focused on solving real design challenges and building polished, professional layouts.
 
-Built using complex CSS layouts (Grid & Flexbox) to ensure responsiveness across devices.
+📌 Project Description
+FutureTech is designed as a clean, modern interface that highlights technology‑focused content such as news, blogs, podcasts, and resources.
+The project showcases structured layouts, responsive design, interactive components, and a fully functional contact page—making it a complete, real‑world website experience.
 
-Features interactive elements such as hover effects and structured content blocks.
+🌐 Live Demo
+👉 View FutureTech Website  
+(https://precious-dieffenbachia-74b7c9.netlify.app/)
 
-# Contact Us
-Contains a fully  contact form with fields for name, email, phone, and message.
+📄 Pages Overview
+1. Home Page
+Introduces FutureTech with a clean, professional hero section.
 
-Includes a FAQ accordion for common questions, styled with Bootstrap and customized CSS.
+Includes structured sections for news updates, blogs, podcasts, and resources.
 
-Displays direct contact information (email, phone, address) and social media links.
- 
-Designed to be user-friendly and responsive, adapting seamlessly to mobile and desktop screens.
+Built using advanced CSS layouts (Grid + Flexbox) to ensure full responsiveness.
 
-## What I Learned
-How to tackle challenging design problems using advanced CSS techniques.
+Features interactive hover effects and well‑organized content blocks.
 
-The strength and flexibility of CSS in creating responsive, professional layouts.
+Designed to maintain visual balance and clarity across all screen sizes.
 
-Building structured forms and interactive components that enhance user experience.
+2. Contact Us Page
+Contains a complete contact form (name, email, phone, message).
 
+Includes a FAQ accordion built with Bootstrap and customized CSS.
+
+Displays direct contact information (email, phone, address).
+
+Features social media links styled for a modern look.
+
+Fully responsive and optimized for both mobile and desktop.
+
+🚀 What I Learned
+This project helped me strengthen several important frontend skills:
+
+Advanced CSS Problem‑Solving  
+Tackling complex layout challenges using Grid, Flexbox, and responsive units.
+
+Power & Flexibility of CSS  
+Understanding how CSS alone can create professional, scalable designs.
+
+Building Interactive UI Components  
+Forms, accordions, hover effects, and structured content sections.
+
+Modern Web Design Confidence  
+Creating polished, real‑world interfaces that balance aesthetics and functionality.
+
+🎯 Conclusion
+FutureTech was more than just a project—it was a learning journey.
+It helped me master advanced CSS patterns, understand responsive design deeply, and gain the confidence to build professional‑grade websites that look great and work flawlessly across all devices.
+
+👨‍💻 Author
+Hasan Mazen Saqour  
+Frontend Developer – React / Next.js
+GitHub: hasansakkour51-dotcom  
+LinkedIn: Hasan Saqour
 Developing confidence in creating modern, polished websites that balance aesthetics and functionality.
 
 ## Conclusion
